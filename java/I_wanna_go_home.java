@@ -1,4 +1,4 @@
-class I {
+class Person {
     private String name;
     I(String name) {
         this.name = name;
@@ -9,7 +9,7 @@ class I {
 }
 class I_wanna_go_home {
     public static void main(String[] args) {
-        I syru = new I("Syru");
-        syru.wanna("Go Home");
+        Person I = new Person("I");
+        I.wanna("Go Home");
     }
 }
