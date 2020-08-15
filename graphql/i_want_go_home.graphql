@@ -1,0 +1,9 @@
+"""
+I WANT GO HOME
+"""
+type Query {
+  """
+  I WANT GO HOME
+  """
+  message: String
+}
