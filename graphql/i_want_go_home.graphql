@@ -1,9 +1,5 @@
-"""
-I WANT GO HOME
-"""
+directive @want(go: String!) on FIELD_DEFINITION
+
 type Query {
-  """
-  I WANT GO HOME
-  """
-  message: String
+  i @want(go: "home"): String!
 }
