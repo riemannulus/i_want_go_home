@@ -1,7 +1,5 @@
 {
   "i": {
-    "want": {
-      "go": "home"
-    }
+    "want": ["go home"]
   }
 }
