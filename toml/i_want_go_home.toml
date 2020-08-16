@@ -1,2 +1,1 @@
-[i]
-want = { go = "home" }
+i = { want = "go home" }
