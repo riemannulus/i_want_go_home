@@ -1,1 +1,1 @@
-(format t "Hello, World!")
+(format t "집에 가고 싶다")
