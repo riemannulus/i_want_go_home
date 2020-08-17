@@ -1,0 +1,14 @@
+Expression
+  = i:Subject want:WVerb go:GVerb home:Objective = { return `${i} ${want} ${go} ${home}`; }
+
+Subject
+  = "i"
+
+WVerb
+  = "want"
+
+GVerb
+  = "go"
+
+Objective
+  = "home"
